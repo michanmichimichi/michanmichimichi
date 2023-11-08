@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michanmichimichi
 - 👀 I’m programmaer for oldold time.
 - 🌱 I make a youtube site 'bugbugProgramming".
-- 💞️ Here is learnnig program code in this area.
+- 💞️ Learnnig program code is in this area.
 - 📫 How to reach me ...
 
 <!---
